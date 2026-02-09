@@ -88,13 +88,5 @@ GET /usuarios
 mvn spring-boot:run
 ```
 
----
 
-## 📺 Tutorial em vídeo
-Este repositório faz parte do vídeo publicado no canal **Eversingledev**:  
-👉 [Assista aqui](https://www.youtube.com/watch?v=3pBDxUpXvAk) 
 
----
-
-## 📄 Licença
-Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar.  
